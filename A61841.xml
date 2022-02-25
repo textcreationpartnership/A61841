@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Babylon's fall in Maryland, a fair warning to Lord Baltamore, or, A relation of an assault made by divers papists, and popish officers of the Lord Baltamore's, against the Protestants in Maryland to whom God gave a great victory against a greater force of souldiers and armed men, who came to destroy them / published by Leonard Strong, agent for the people of Providence in Maryland.</title>
+            <author>Strong, Leonard, Agent for the people of Providence in Maryland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61841</idno>
+            <idno type="STC">Wing S5994</idno>
+            <idno type="STC">ESTC R17655</idno>
+            <idno type="EEBO-CITATION">13038548</idno>
+            <idno type="OCLC">ocm 13038548</idno>
+            <idno type="VID">96856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 400:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Babylon's fall in Maryland, a fair warning to Lord Baltamore, or, A relation of an assault made by divers papists, and popish officers of the Lord Baltamore's, against the Protestants in Maryland to whom God gave a great victory against a greater force of souldiers and armed men, who came to destroy them / published by Leonard Strong, agent for the people of Providence in Maryland.</title>
+                  <author>Strong, Leonard, Agent for the people of Providence in Maryland.</author>
+               </titleStmt>
+               <extent>[3], 11, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Maryland.</term>
+               <term>Maryland --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96856:1"/>
+            <pb facs="tcp:96856:1"/>
+            <p>BABYLON's Fall in <hi>MARYLAND:</hi> A fair WARNING to Lord <hi>Baltamore.</hi>
+            </p>
+            <p>OR, A RELATION Of an Aſſault made by divers Papiſts, and Popiſh Officers of the Lord
+<hi>Balta<g ref="char:EOLhyphen"/>more</hi>'s againſt the Proteſtants in <hi>Maryland;</hi> to whom GOD gave a great
+Victory a<g ref="char:EOLhyphen"/>gainſt a greater force of Souldiers and armed Men, who came to deſtroy them.</p>
+            <p>Publiſhed by <hi>Leonard Strong,</hi> Agent for the people of PROVIDENCE in MARY<g ref="char:EOLhyphen"/>LAND.</p>
+            <p>Printed for the Author, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96856:2"/>
+            <pb n="1" facs="tcp:96856:2"/>
+            <head>
+               <hi>Babylons</hi> fall in <hi>Maryland.</hi> A fair warning to Lord
+<hi>Baltamore.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the yeer 1649. many, both of the congregated Church, and other well-affected people in
+<hi>Virginia,</hi> being de<g ref="char:EOLhyphen"/>barred from the free exerciſe of Religi<g ref="char:EOLhyphen"/>on, under the Government of
+Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Barkely<g ref="char:punc">▪</g>
+               </hi> removed themſelves, Fa<g ref="char:EOLhyphen"/>milies, and Eſtates into the
+Province of <hi>Maryland,</hi> being thereunto invited by Captain <hi>William Stone,</hi> then
+Gover<g ref="char:EOLhyphen"/>nour for Lord <hi>Baltamore,</hi> with promiſe of Liberty in Religion, and Priviledges of
+Engliſh Subjects.</p>
+            <p>An Oath to the Lord <hi>Baltamore</hi> was urged upon this peo<g ref="char:EOLhyphen"/>ple ſoon after their coming up,
+which if they did not take, they muſt have no Land, nor abiding in the Province. This Oath was
+very ſcrupulouſly looked upon: firſt, In regard it bindes to ac<g ref="char:EOLhyphen"/>knowledge and be ſubject to
+a Royal Juriſdiction and abſolute Dominion of the Lord <hi>Baltamore,</hi> and to defend it and
+him a<g ref="char:EOLhyphen"/>gainſt all power whatſoever. This was thought far too high for him, being a Subject, to
+exact upon ſuch terms as it was ex<g ref="char:EOLhyphen"/>acted, and too much unſutable to the preſent liberty which
+God had given the Engliſh Subjects, from Arbitrary and Popiſh Government; as the Lord
+<hi>Baltamore</hi>'s Government doth plainly
+<pb n="2" facs="tcp:96856:3"/>appear to be. Secondly, It was exceedingly ſcrupled on another account,
+<hi>viz.</hi> That they muſt ſwear to uphold that Govern<g ref="char:EOLhyphen"/>ment and thoſe Officers who are
+ſworn to countenance and up<g ref="char:EOLhyphen"/>hold Antichriſt, in plain words expreſt in the Officers Oath, the
+Roman Catholick Religion. And for theſe people to own ſuch by an Oath, whom in their hearts
+they could by no means cloſe with; what could it be accounted, but <hi>Colluſion?</hi>
+            </p>
+            <p>Yet nevertheleſs the people that were then come up to <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi> conſidering Lord
+<hi>Baltamore</hi> to be Lord of the ſoil, and willing to acknowledge him, and pay him his due
+Rents and Services; upon that account took an Oath which was much qualified and moderated from its
+former rigour: but this, though it was accepted by Captain <hi>Stone</hi> the Lord
+<hi>Baltamore</hi>'s Lieutenant, yet utterly rejected by his Lordſhip, who gave or<g ref="char:EOLhyphen"/>der, That the
+Oath abſolutely ſhould be urged; and gave ſpe<g ref="char:EOLhyphen"/>cial inſtructions and charge to his
+Leiutenant to proclaim, That all that would not take the Oath within three Months after
+publication, and pay Rents, and ſue out Patents, ſhould be expulſed the Province, and the
+Land ſeized to his Lordſhips uſe; who required his Officers to ſee the contents of the
+Pro<g ref="char:EOLhyphen"/>clamation executed.</p>
+            <p>Now the people having been formerly ſenſible of ſuch yokes, impoſed contrary to what was
+promiſed them before they came into the Province, complained by their Agent in
+<hi>England,</hi>
+            </p>
+            <p>Firſt, to the Lord <hi>Baltamore,</hi> deſiring his Lordſhip, That ſuch burthens as the
+Oath and other great inconveniences men<g ref="char:EOLhyphen"/>tioned in our inſtructions, might be removed. But the
+Lord <hi>Baltamore</hi> rejected the motion. Our Agent preſented a Peti<g ref="char:EOLhyphen"/>tion to the then Councel
+of State, where it hath been depending neer four yeers, without any hearing, Anſwer or Relief;
+which hath brought unſpeakable troubles upon this Province, &amp; now at laſt occaſioned the
+ſhedding of much Engliſh blood; yea, of the Saints in <hi>Maryland.</hi> God grant that Right
+and Juſtice may have a more open courſe to flow into all the Domi<g ref="char:EOLhyphen"/>nions of <hi>England,</hi>
+without obſtructions; and, that innocent blood be not ſhed any more for want thereof.</p>
+            <p>In the yeer 1652. <hi>Richard Bennet</hi> 
+               <abbr>Eſq</abbr> Colonel <hi>William Clayborne,</hi>
+and Captain <hi>Edmund Curtis,</hi> Commiſſioners from
+<pb n="3" facs="tcp:96856:3"/>the Supream Authority of the Commonwealth of <hi>England,</hi> arrived in
+<hi>Maryland,</hi> in the <hi>Guiny</hi> Friggot to reduce that Province into the obedience of the
+Commonwealth of <hi>England,</hi> according to their Commiſſion; which was effected by them,
+firſt, in their taking away the Commiſſions and Powers of the Lord <hi>Baltamore,</hi> in the
+hands of Captain <hi>William Stone</hi> his Governour, and <hi>Thomas Hatton</hi> his Secretary,
+and the reſt of the Lord <hi>Baltamores</hi> Councel; as they had very good cauſe ſo to do;
+for none of the Engliſh Dominions had more need of being reduced; and cauſed them to take the
+Engagement to the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England,</hi> as it was then, without King or Houſe of
+Lords. And ſo they might have continued in their places ſtill, onely to the Commonwealth of
+<hi>England;</hi> but they would not yield to iſſue out Writs in any other name, then Lord
+<hi>Balta<g ref="char:EOLhyphen"/>more</hi>'s, becauſe of their Oath to him.</p>
+            <p>In the yeer 1654. upon ſome Inſtructions and Relations from the Lord <hi>Baltamore</hi> out
+of <hi>England,</hi> Captain <hi>William Stone,</hi> and Mr. <hi>Thomas Hatton,</hi> and the
+Popiſh Councellors, roſe up againſt the Reducement, diſplacing thoſe whom the States
+Commiſſioners had placed, and introducing the old Po<g ref="char:EOLhyphen"/>piſh Councel; calling that which was
+done by commiſſion from the Councel of State in <hi>England,</hi> Rebellion againſt the Lord
+<hi>Baltamore;</hi> and thoſe that were Actors in it, Factious and Se<g ref="char:EOLhyphen"/>ditious Perſons: which
+was done by a Proclamation full of railing terms, publiſhed at <hi>Providence</hi> in the
+Church-meet<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>The Commiſſioners for the Commonwealth of England, hearing that new Orders and
+Inſtructions were come to Maryland from Lord</hi> Baltamore, <hi>and that one</hi> Scarborough
+<hi>a miſchievous inſtrument of the Lord</hi> Baltamore <hi>was gone up</hi> Maryland,
+<hi>reſolved to come and ſee in what condition their affairs ſtood.</hi> And finding a direct
+contradiction to, and re<g ref="char:EOLhyphen"/>ceding from that obedience to the Commonwealth of <hi>England,</hi> which
+was promiſed, but not performed, by the Lord <hi>Baltamore</hi>'s Officers, applied themſelves
+in a peaceable and loving way to per<g ref="char:EOLhyphen"/>ſwade them into their due and promiſed obedience, yet
+became the ſaid Commiſſioners were given to underſtand, That there was a miſchievous
+deſign by Lord <hi>Baltamore</hi>'s Officers and
+<pb n="4" facs="tcp:96856:4"/>their Complices, to apprehend their perſons, and to raiſe Forces againſt
+the lawful Power of the Commonwealth of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi>
+            </p>
+            <p>The ſaid Commiſſioners deſired ſome to come down from <hi>Providence,</hi> and ſome
+from <hi>Putuxent</hi> to guard their Perſons, and defend themſelves &amp; people from that
+power of me<g ref="char:cmbAbbrStroke">̄</g> in Arms, which by this time Captain <hi>Stone</hi> had preſſed in Lord
+<hi>Balta<g ref="char:EOLhyphen"/>more</hi>'s name, upon pain of death to aſſiſt him againſt the ſaid
+Commiſſioners, and gathered together in a formidable manner. But the ſaid Commiſſioners
+being greatly deſirous of peace, and willing to avoid the ſhedding of blood, applyed
+themſelves to the ſaid Captain <hi>Stone<g ref="char:punc">▪</g>
+               </hi> to bring him to a parley and conference;
+where, after ſome arguing, the ſaid Captain <hi>Stone</hi> reſigned up the Government which
+he took up in the Lord <hi>Baltamore</hi>'s name, into the hand of the Commiſſioners of
+<hi>England;</hi> pro<g ref="char:EOLhyphen"/>miſing to be obedient to that Government, which by their Au<g ref="char:EOLhyphen"/>thority
+ſhould be ſet over them, under his Highneſs the Lord Protector.</p>
+            <p>The ordering and governing the affairs of <hi>Maryland,</hi> was then committed to Captain
+<hi>Will. Fuller,</hi> Mr. <hi>Rich. Preſton,</hi> Mr. <hi>Richard Durand,</hi> Mr. <hi>Edward
+Lloyd,</hi> &amp;c. others mentioned in the Commiſſion, who were required to attend the
+Engagement of the Commonwealth of <hi>England,</hi> to keep Courts, <hi>&amp;c.</hi> and to
+ſummon an Aſſembly in <hi>October</hi> following. At this Aſ<g ref="char:EOLhyphen"/>ſembly there was a full and
+lawful Repreſentative of the whole Province, where the Act of Reducement of this Province by
+Commiſſion from the Councel of State in <hi>England</hi> to <hi>Richard Bennet</hi>
+               <abbr>Eſq</abbr> Colonel <hi>William Cleyborne, Emund Curtis,</hi> was freely and fully
+acknowledged by the whole Aſſembly; the Burgeſſe of every reſpective County and Limit
+confirming the ſame, and ſubmitting thereunto. And did paſs, and record an Act, <hi>That
+whoſoever did publiſh any Writ or Summons, De<g ref="char:EOLhyphen"/>claration or Proclamation, either in the
+Lord</hi> Baltamore<hi>'s or any other name, then the Government ſo ſetled as afore<g ref="char:EOLhyphen"/>ſaid had
+and received, ſhould be accounted a Delinquent a<g ref="char:EOLhyphen"/>gainſt the Commonwealth of England, and dealt
+with accor<g ref="char:EOLhyphen"/>dingly.</hi>
+            </p>
+            <p>The ſame Aſſembly did make Proteſtation againſt a Decla<g ref="char:EOLhyphen"/>ration
+<pb n="5" facs="tcp:96856:4"/>ſent over by his Lordſhip, and recorded by his Secretary; wherein the ſaid
+Lord did declare the people at <hi>Providence,</hi> by him called <hi>Annardundel,</hi> to be
+Rebels; and ſtrictly charged his Officers efficaciouſly to deal with them accordingly: but no
+ground or reaſon thereof could be found, But their not com<g ref="char:EOLhyphen"/>pliance with his Arbitrary and
+Popiſh Government, and the adhering to the Engagement and the Reducement aforeſaid, and
+Government ſetled by the aforeſaid Commiſſioners.</p>
+            <p>After this Aſſembly, the Province was quiet, and ſo continued until the later end of
+<hi>January;</hi> about which time, the Ship <hi>Golden Fortune,</hi> whereof Captain
+<hi>Tilman</hi> was Commander, arrived in <hi>Maryland.</hi>
+            </p>
+            <p>Then the Lord <hi>Baltamore</hi>'s Officers, and the Popiſh party began to divulge abroad, and
+boaſt much of power which came in that Ship from his Highneſs the Lord Protector, to con<g ref="char:EOLhyphen"/>firm
+the Lord <hi>Baltamore</hi>'s Patent to him, and to re-eſtabliſh his Officers in their former
+places under him: which pretended power they aſſumed to themſelves; Captain <hi>Stone</hi>
+and the reſt giving out threatning ſpeeches, That now the Rebels at <hi>Pu<g ref="char:EOLhyphen"/>tuxent</hi> and
+<hi>Severne,</hi> ſhould know that he was Governour a<g ref="char:EOLhyphen"/>gain; giving Order, That neither Act of the
+ſaid Aſſembly ſhould be obſerved, nor Writ from the power eſtabliſhed by the
+Commiſſioners aforeſaid obeyed, but what ſhould iſſue forth in the name of the Lord
+Proprietory, <hi>viz.</hi> Lord <hi>Baltamore.</hi> And further, the ſaid Captain <hi>Stone</hi>
+gave ſeveral Commiſſions to the Papiſts and other deſperate and bloody fellows, to
+muſter and raiſe men in arms to be ready upon all occaſions, giving out that he would go to
+<hi>Putuxent,</hi> and ſeize the Records of the Province at the place where they were appointed
+to be kept by an Act of the Aſſembly, and to apprehend Mr. <hi>Richard Preſton</hi> alſo,
+at whoſe houſe they were; which ſhortly after was effected by Vertue of a Warrant in Captain
+<hi>Stone</hi>'s name, without Proclaiming, or ſhewing any power by which he acted ſuch high
+Robberies. But in threatning ſpeeches declared, That they would have the Government; and for the
+terror of others, would hang ſome of the Commiſſioners, which were entruſted with the
+Government by the Commiſſioners of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> under his Highneſs
+the Lord Protector,
+<pb n="6" facs="tcp:96856:5"/>namely, Captain <hi>William Fuller,</hi> Mr. <hi>Richard Preſton,</hi> and Mr.
+<hi>William Durand.</hi>
+            </p>
+            <p>About this time Captain <hi>William Fuller,</hi> Mr. <hi>William Du<g ref="char:EOLhyphen"/>rand,</hi> Mr. <hi>Leonard
+Strong,</hi> and Mr. <hi>Richard Ewen,</hi> to whom among others the Government was committed,
+ſent two Meſ<g ref="char:EOLhyphen"/>ſengers of quality and truſt with Letters to Captain <hi>Stone,</hi> in a way
+of peace and love; deſiring him to make it known by what power he ſurpriſed the Records; and
+deſiring him, the ſaid Captain <hi>Stone<g ref="char:punc">▪</g>
+               </hi> to give an Anſwer, as by the Letter,
+relation thereunto being had, more at large appeareth: But the ſaid Captain <hi>Stone,</hi>
+inſtead of giving a ſatisfactory Anſwer, im<g ref="char:EOLhyphen"/>priſoned the Meſſengers, and in much wrath
+and ſury ſaid he would ſhew no power: at laſt he affirmed, that he acted by a power from
+Lord <hi>Baltamore;</hi> and that the Lord Protector had confirmed the Lord <hi>Baltamore</hi>'s
+power. If ſo, Sir, ſaid one of the Meſſengers, if it be confirmed, let that appear, and it
+will ſatisfie. Confirmed, ſaid Captain <hi>Stone,</hi> I'll confirm it; and ſo ſent them
+home. After this, the ſaid Captain <hi>Stone</hi> and his Officers proceeded in their wicked
+deſign; yet to colour it over, the ſaid Captain <hi>Stone</hi> publiſhed a Proclamation to
+deceive the amazed and diſtracted people at <hi>Putuxent;</hi> wherein he called God to
+witneſs, that he intended not to uſe any hoſtile way to them or the people at
+<hi>Providence.</hi> Which Proteſtation how falſe and feigned it was, the following proceedings
+of himſelf and Officers, will clearly evidence to all the World: for notwith<g ref="char:EOLhyphen"/>ſtanding this
+Proclamation and Proteſtation, the ſaid Captain <hi>Stone</hi> ſent up to <hi>Putuxent</hi>
+one <hi>William Eltonhead</hi> and <hi>Joſi<g ref="char:EOLhyphen"/>as Fendal,</hi> and with them twenty men in Arms, who
+did beſet and entred the houſe of Mr. <hi>Richard Preſton,</hi> with intent to ſurpriſe
+him; but not finding him at home, took away in Guns, Swords and Ammunition to the value of 30
+<hi>
+                  <abbr>l.</abbr> ſterling;</hi> ran<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cked
+every place in and about the houſe, to ſeek for the ſaid <hi>Richard Preſton;</hi> and as
+ſome of the Company then ſaid, with purpoſe to hang him for his rebellion againſt the Lord
+<hi>Bal<g ref="char:EOLhyphen"/>tamore.</hi> At the ſame time they ſurpriſed <hi>John Sutton,</hi> who was appointed
+by the Aſſembly and Secretary to attend the Records, for any that ſhould have occaſion to
+uſe them, either for ſearch or Copy; and carried him away Priſoner with ſuch
+<pb n="7" facs="tcp:96856:5"/>Guns and Ammunition he had, and kept him about twenty dayes; even ſo they dealt
+with Lieutenant <hi>Peter Johnſon;</hi> ſe<g ref="char:EOLhyphen"/>veral other houſes at <hi>Putuxent,</hi> they
+ſerved in the like kinde. And when they were deſired to ſhew by what power or Com<g ref="char:EOLhyphen"/>miſſion
+they ſo acted, they would in a proud bravado clap their hands on their ſwords, and ſay, Here
+is a Commiſſion. This was no ſooner effected at <hi>Putuxent,</hi> but preſently they
+muſtered in Arms two hundred or two hundred and fifty men at the houſe of the aforeſaid
+<hi>Eltonhead,</hi> which <hi>Eltonhead</hi> and <hi>Fendal</hi> ſent up by night ſeveral Boats
+with armed men, and forced many of <hi>Putuxen</hi> whether they would or not to go with them upon
+their warlike Expedition to <hi>Providence;</hi> taking all the Guns, Pow<g ref="char:EOLhyphen"/>der, Shot, and
+Proviſion, they could anywhere finde. And when they had done what they pleaſed at
+<hi>Putuxent,</hi> they bent all their Forces towards <hi>Providence,</hi> the chief place of the
+reſidence of moſt of the Commiſſioners, and people that were forced out of
+<hi>Virginia</hi> by Sir <hi>William Barkely</hi> for conſcience ſake. Some of the ſaid
+Company marching by Land, others by Water; they that marched by Land, did much ſpoil and robbery
+in all the Houſes and Plantations where they came, breaking open Doors, Trunks and Cheſts. In
+this barbarous manner they carried it for about forty miles.</p>
+            <p>Now again the Commiſſioners at <hi>Providence</hi> ſent other Meſſengers with a Letter
+to Captaine <hi>Stone,</hi> ſtill complaining his proceedings, and ſeeking the knowledge of his
+power; and that ſome better accommodation might be attended to prevent the ruine and deſolation
+of the whole Province, which this courſe was very likely to bring to paſs. If he were
+reſolved to come to no Parley or Treaty, they proteſted in the ſaid writing, that by the help
+of God, they were reſolved to commit themſelves into the hand of God, and rather die like men,
+then live like ſlaves. This was alſo rejected by the ſaid Captain <hi>Stone</hi> and his
+Com<g ref="char:EOLhyphen"/>plices, the Meſſengers apprehended, their Boat ſeized, and onely three of ſix eſcaped
+to bring the report of their deſperate and bloody deſign, and that they were upon their march
+in a hoſtile way.</p>
+            <p>Capt. <hi>Stone</hi> and his Company ſtill drew neerer to <hi>Providence,</hi> unto a place
+called <hi>Herring-Creek,</hi> where they apprehended
+<pb n="8" facs="tcp:96856:6"/>one of the Commiſſioners, and forced another man of quality to flie for his
+life, having threatned to hang him up-at-his own door; and not finding the man, affrighted his
+wife, and plundered the houſe of Ammunition and Proviſion, threatning ſtill what they would
+do to the people at <hi>Providence,</hi> and that they would force the rebellious factious
+Roundheads to ſubmit; and then they would ſhew their power.</p>
+            <p>Having now left the Country behinde them bare of men, ſave onely ſuch as fled into the Woods
+from their cruelty and rapine, as alſo of Arms and Ammunition; the poor women urging this to
+them, What ſhould they do if the Indians ſhould come upon them, being thus ſtrip'd of men and
+Arms to defend them; and in what a ſad and ſorrowful condition they were left: Theſe
+mercileſs men anſwered ſcoffingly, It matters not, your ſorrow is our joy.</p>
+            <p>And indeed, it is too apparent, that the Indians waited upon their motions, and by examination
+it was found at <hi>Providence,</hi> that the Indians were reſolved in themſelves, or ſet on
+by the Popiſh faction, or rather both together to fall upon us: as in<g ref="char:EOLhyphen"/>deed after the fight they
+did, beſetting houſes, killing one man, and taking another priſoner.</p>
+            <p>Now the people at <hi>Providence</hi> perceiving ſuch a tempeſt ready to fall upon them, and
+all meſſages rejected, prepared for their coming, looking up, and crying to the Lord of Hoſts
+and King of <hi>Ston,</hi> for counſel, ſtrength and courage, being reſolved in the
+ſtrength of God to ſtand on their Guard, and demand an account of theſe proceedings, ſeeing
+no other remedy, for ſo great a miſchief, could be found.</p>
+            <p>About this time Captain <hi>Stone</hi> ſent two men to publiſh a Proclamation quite
+againſt the Law eſtabliſhed by the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Commonwealth of
+<hi>England,</hi> and againſt an Act of a lawful Aſſembly; which being read, and having no
+other Treaty to offer, they were quietly diſmiſſed to their own Com<g ref="char:EOLhyphen"/>pany, to whom they might
+have gone if they would.</p>
+            <p>That night Captain <hi>Stone</hi> and his Army appeared in the Ri<g ref="char:EOLhyphen"/>ver of <hi>Severne</hi> at
+<hi>Providence,</hi> with eleven or twelve Veſſels greater and leſſer, ſome of which had
+plundred by the way, in which their whole Army were wafted.</p>
+            <pb n="9" facs="tcp:96856:6"/>
+            <p>Capt. <hi>Fuller</hi> &amp; the Councel of War appointed at <hi>Providence</hi> Mr. <hi>Wil.
+Durand,</hi> Secretary, to go aboard the <hi>Golden Lion</hi> which then lay at Anchor in the
+River, and to fix a Proclamation in the main maſt, directed to Captain <hi>Heamans,</hi>
+Commander of the ſaid Ship, wherein he was required in the name of the Lord Protector, and
+Commonwealth of <hi>England,</hi> and for the main<g ref="char:EOLhyphen"/>tenance of the juſt Libertyes, Lives, and
+Eſtates of the free Subjects thereof, againſt an unjuſt power, to be aiding and
+aſ<g ref="char:EOLhyphen"/>ſiſting in this ſervice.</p>
+            <p>The ſaid Captain <hi>Heamans</hi> at firſt was unwilling; but af<g ref="char:EOLhyphen"/>terwards ſeeing the
+equity of the Cauſe, and the groundleſs proceedings of the Enemy, he offered himſelf, Ship,
+and Men for that ſervice, to be directed by the ſaid <hi>William Du<g ref="char:EOLhyphen"/>rand.</hi>
+            </p>
+            <p>The Enemy was come within the command of the Ship at the ſhutting in of the evening: the
+Captain of the Ship was required to command them aboard by a piece of Ordnance. The Enemy with a
+great noiſe rejected the warning. Then ano<g ref="char:EOLhyphen"/>ther Piece was levelled where they heard the Boats
+rowing; the ſhot whereof lighting ſomething neer, but doing no hurt; A Meſſenger came
+aboard; but had nothing of any meſſage to deliver, ſave onely, that Captain <hi>Stone</hi>
+thought the Cap<g ref="char:EOLhyphen"/>tain of the Ship had been ſatisfied. To which the Captain anſwered, Satisfied,
+with what? I never ſaw any power Captain <hi>Stone</hi> had, to do as he hath done; but the
+ſu<g ref="char:EOLhyphen"/>perſcription of a Letter. I muſt, and will, appear for theſe in a good Cauſe.</p>
+            <p>That night the Enemy run into the Creek, where they landed out of the reach of the Ship.</p>
+            <p>But in the morning, all their Veſſels were block'd up by a ſmall Barque with two pieces of
+Ordinance, which was com<g ref="char:EOLhyphen"/>manded to lie in the mouth of the Creek, and ſo kept from coming
+out.</p>
+            <pb n="10" facs="tcp:96856:7"/>
+            <p>The ſame day being the firſt day of the week, and the 25 of <hi>March,</hi> the Enemy
+appeared in a body upon a narrow neck of the Land, neer their Veſſels, and with Drums and
+ſhoutings ſaid, <hi>Come ye Rogues, come ye Rogues, Roundheaded Dogs;</hi> which cauſed the
+Captain of the Ship to give fire at them, and forced them to march further off, into the neck of
+Land.</p>
+            <p>In the mean time Capt. <hi>Will. Fuller</hi> with his Company came up the River with ſhoutings
+and couragious rejoycings, and landed with a hundred and twenty men, ſix mile diſtant from the
+Ene<g ref="char:EOLhyphen"/>my: and immediately ſent away all their Sioaps and Boats, committing themſelves into the
+hand of God: he marched di<g ref="char:EOLhyphen"/>rectly where the Enemy lay waiting for him. The Enemies Sentry ſhot;
+immediately they appeared in order. Captain <hi>Fuller</hi> ſtill expecting, that then at laſt,
+poſſibly they might give a reaſon of their coming, commanded his men upon pain of death not
+to ſhoot a Gun, or give the firſt onſet; ſetting up the Standard of the Commonwealth of
+<hi>England:</hi> againſt which, the Enemy ſhot five or ſix Guns, and killed one man in the
+front before a ſhot was made by the other. Then the word was given, <hi>In the Name of God fall
+on; God is our Strength,</hi> that was the Word for <hi>Providence:</hi> the <hi>Marylanders</hi>
+Word was <hi>Hey for Saint Maries.</hi> The Charge was fierce and ſharp for the time; but through
+the glorious preſence of the Lord of Hoſts manifeſted in and towards his poor oppreſſed
+people, the Enemy could not endure, but gave back; and were ſo effectually charged home, that
+they were all routed, turned their backs, threw down their Arms, and begged mercy. After the
+firſt Volley of ſhot, a ſmall Company of the Enemy, from behinde a great tree fallen, galled
+us, and wounded divers of our men, but were ſoon beaten off. Of the whole company of the
+<hi>Marylanders</hi> there eſcaped onely four or five, who run away out of the Army to carry News
+to their Confederates, Captain <hi>Stone,</hi> Colonel <hi>Price,</hi> Captain <hi>Gerrard.</hi>
+Captain <hi>Lewis,</hi> Captain <hi>Hendall,</hi> Captain <hi>Guither,</hi> Major
+<hi>Chandler,</hi> and all the reſt of the Coun<g ref="char:EOLhyphen"/>cellors Officers and Souldiers of the Lord
+<hi>Baltamore<g ref="char:punc">▪</g>
+               </hi> among whom, both Commanders and Souldiers, a great number being
+<pb n="11" facs="tcp:96856:7"/>Papiſts, were taken, and ſo were all their Veſſels, Arms, Am<g ref="char:EOLhyphen"/>munition,
+proviſion; about fifty men ſlain and wounded. We loſt onely two in the field; but two died
+ſince of their wounds. God did appear wonderful in the field, and in the hearts of the people;
+all confeſſing him to be the onely Worker of this victory and deliverance.</p>
+            <closer>
+               <signed>
+                  <hi>Examinatur per me,</hi> William Durand, Secretary of
+MARYLAND.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:96856:8"/>
+            <head>The Poſtſcript.</head>
+            <p>THus God our Strength appeared for us; and the blood which they thirſted after in others, was
+given to them<g ref="char:EOLhyphen"/>ſelves to drink; the miſeries which they threatned to the innocent, fell upon the
+guilty; the pit which they digged for o<g ref="char:EOLhyphen"/>thers, themſelves fell into; the cords which they brought
+to binde us, bound themſelves. This is the Lord's doing, it may well be marvellous in our
+eyes.</p>
+            <p>What hath been written, is but a very abstract of thoſe great and various providences of God
+toward his people, and against Antichrist; a great Volume would not contain the wonders which the
+Lord himſelf hath wrought and manifested to the hearts of his people in this diſpenſation.
+The ſum is, Satan and his ſeed, riſing up againſt the ſeed of the woman, bruiſes the
+heel of Chriſt, but deſtroyes himſelf utterly. The further evil men proceed in their own way,
+the neerer to deſtruction: ſo is it with all fleſh, it works it ſelf into ruine, through
+the adored depths of the wiſdom of God.</p>
+            <p>Thoſe who are acquainted with the clear and familiar ap<g ref="char:EOLhyphen"/>pearances of God to his people in
+times of distreſs, can underſtand and rejoyce in what may be now a little further hinted.</p>
+            <p>Firſt, the Lord confounded the Language of <hi>Babel</hi> in the hearts, projects, and
+conſultations of his people, when they were deviſing to defend themſelves from this danger,
+till they came to that condition of <hi>Jehoſaphat, We know not what to do, but our eyes are
+towards thee; wilt thou judge them? for we have no ſtrength againſt this multitude.</hi>
+            </p>
+            <pb facs="tcp:96856:8"/>
+            <p>Secondly, Now the Lord gives teſtimony from himſelf in the Spirits of many of his Saints, in
+a wonderful, plain, yet glorious manner; (for the ſecret of the Lord is with them that fear him)
+ſo that as well women as men ſpake, or rather God ſpake in them an expreſs teſtimony what
+ſhould be the iſſue of this conflict, that is, glory to God in the higheſt, deliverance to
+his people, deſtru<g ref="char:EOLhyphen"/>ction to <hi>Babylon,</hi> Songs unto <hi>Sion:</hi> which was revealed ſo
+power<g ref="char:EOLhyphen"/>fully, evidently, and certainly, that it raviſh'd the hearts of ſome, aſtoniſh'd
+others, and encouraged the heart both of Gene<g ref="char:EOLhyphen"/>ral, Captains, and Souldiers, as well as others that
+could not fight, to a Triumph before the Engagement, and the enjoyment of a victory by the
+aſſurance of faith, before one ſtroke of the battle.</p>
+            <p>The bow of the Lord was made quite bare, to be ſeen of all that had an eye to ſee, &amp; his
+arrows were ſeen to be ſharp in the heart of the Kings enemies before they fell under him. God
+made the feeble to be as <hi>David,</hi> and <hi>David</hi> as God: they were carried out in the
+ſtrength of the Lord, who gave this teſtimony to one of the Captains, juſt as the Enemy came
+up, <hi>The Victory is yours; but God ſhall be ſeen, and not man in it.</hi> After the battle,
+what acknow<g ref="char:EOLhyphen"/>ledgement of God in is was in every mean Souldiers mouth, as well as the Commanders,
+what praiſing of God, is beyond expreſ<g ref="char:EOLhyphen"/>ſion. They run through all the Company, <hi>Give God
+the glory, Bleſſed be the name of the Lord.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
